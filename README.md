@@ -1,0 +1,2 @@
+## mqc-bpms
+This repository contains the raw data, information and the codes used in `MQC-BPMS`. The Medicine Quality Control (MQC) situation-business-aware BPMS application is used to monitor the temperature of BotoxTM vials (botulinum toxin) that will be used for esthetic or medical treatments by dermatologists. If an undesired situation occur, the user can take action according to the business process modeling in BPMN in order to avoid the loss of the product.
